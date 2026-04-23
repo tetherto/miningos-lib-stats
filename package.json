@@ -1,12 +1,12 @@
 {
   "name": "@tetherto/miningos-lib-stats",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "MiningOS Lib Stats",
   "main": "index.js",
   "keywords": [
     "tether"
   ],
-  "author": "Tether",  
+  "author": "Tether",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=20"
@@ -16,7 +16,7 @@
     "utils.js",
     "ops/"
   ],
-  "type": "commonjs",  
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tetherto/miningos-lib-stats.git"
