@@ -1,6 +1,6 @@
 {
   "name": "@tetherto/miningos-lib-stats",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "MiningOS Lib Stats",
   "main": "index.js",
   "keywords": [
@@ -9,7 +9,7 @@
   "author": "Tether",
   "license": "Apache-2.0",
   "engines": {
-    "node": ">=20"
+    "node": ">=24"
   },
   "files": [
     "index.js",
